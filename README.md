@@ -17,13 +17,9 @@
 
 Информация о данных:
 <class 'pandas.core.frame.DataFrame'>
-
 RangeIndex: 268315 entries, 0 to 268314
-
 Columns: 158 entries, displacement to price_log
-
 dtypes: float64(158)
-
 memory usage: 323.4 MB
 
 None
